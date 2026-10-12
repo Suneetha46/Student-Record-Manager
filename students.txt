@@ -1,0 +1,2 @@
+{"name": "Suneetha", "age": 18, "email": "suneethaathota1419@gmail.com"}
+{"name": "suneetha123", "age": 20, "email": "suneethaathota@gmail.com"}
